@@ -1,7 +1,8 @@
 net stop wuauserv
 net stop cryptSvc
-net stop bits
-net stop msiserver
+
+
+
 ren C:\Windows\SoftwareDistribution SoftwareDistribution.old
 ren C:\Windows\System32\catroot2 Catroot2.old
 123
@@ -15,3 +16,14 @@ asdfra
 
 
 pause
+sdf
+sadfasd
+
+dsfgasd
+asdgf
+sad
+fasd
+f
+dsaf
+sad
+
